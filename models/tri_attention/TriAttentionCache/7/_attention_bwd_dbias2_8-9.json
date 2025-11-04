@@ -1,0 +1,18 @@
+{
+    "4_32_256_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 16,
+            "BLOCK_N": 32
+        },
+        "num_warps": 2,
+        "num_stages": 2
+    },
+    "4_32_384_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 32,
+            "BLOCK_N": 64
+        },
+        "num_warps": 2,
+        "num_stages": 2
+    }
+}

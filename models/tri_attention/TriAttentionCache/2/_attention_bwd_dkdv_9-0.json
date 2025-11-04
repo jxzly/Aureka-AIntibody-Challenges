@@ -1,0 +1,10 @@
+{
+    "4_32_384_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 32,
+            "BLOCK_N": 32
+        },
+        "num_warps": 1,
+        "num_stages": 1
+    }
+}
