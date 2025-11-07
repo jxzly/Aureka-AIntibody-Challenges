@@ -10,5 +10,5 @@ pip3 install protenix
 ```bash
 wget "https://zenodo.org/records/17541122/files/Covid-design-10.pt?download=1" -O outputs/Covid-design-10.pt
 conda activate protenix
-bash predict.py
+bash predict.sh
 ```
